@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f02bfd278be72374e8ae811b5c7ad110
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawner1: {instanceID: 0}
+  - spawner2: {instanceID: 0}
+  - spawner3: {instanceID: 0}
+  - spawner4: {instanceID: 0}
+  - spawner5: {instanceID: 0}
+  - spawner6: {instanceID: 0}
+  - spawner7: {instanceID: 0}
+  - spawner8: {instanceID: 0}
+  - spawner9: {instanceID: 0}
+  - spawner10: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

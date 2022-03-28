@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 27d4cc6480533064b8ce6f0a08718042
+  - enabled: 1
+    path: Assets/Scenes/Endemic.unity
+    guid: dd40fd85cec1bf147b307c6f12c91894
+  - enabled: 1
+    path: Assets/Scenes/Epidemic.unity
+    guid: 000c670e43d8b6042856d69d3217448e
+  - enabled: 1
+    path: Assets/Scenes/Pandemic.unity
+    guid: 85c595a121fe0664cbfa7dab36617a94
+  m_configObjects: {}
